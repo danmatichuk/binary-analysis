@@ -56,7 +56,6 @@ common shared
 
 library
     import: shared
-    exposed-modules:  Stubs.PlaceholderLib
 
     -- Modules included in this library but not exported.
     -- other-modules:

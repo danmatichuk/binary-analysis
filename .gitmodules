@@ -1,9 +1,6 @@
 [submodule "submodules/crucible"]
 	path = submodules/crucible
 	url = git@github.com:GaloisInc/crucible.git
-[submodule "macaw"]
-	path = submodules/macaw
-	url = git@github.com:GaloisInc/macaw.git
 [submodule "submodules/flexdis86"]
 	path = submodules/flexdis86
 	url = git@github.com:GaloisInc/flexdis86.git
@@ -40,3 +37,6 @@
 [submodule "submodules/what4-serialize"]
 	path = submodules/what4-serialize
 	url = git@github.com:GaloisInc/what4-serialize.git
+[submodule "submodules/macaw"]
+	path = submodules/macaw
+	url = git@github.com:GaloisInc/macaw.git

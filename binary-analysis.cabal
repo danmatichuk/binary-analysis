@@ -56,7 +56,6 @@ common shared
 
 library
     import: shared
-    exposed-modules:  Stubs.PlaceholderLib
 
     -- Modules included in this library but not exported.
     -- other-modules:
@@ -83,6 +82,8 @@ library
                       crucible-symio,
                       crucible-syntax,
                       what4,
+                      macaw-ppc,
+                      macaw-ppc-symbolic
     hs-source-dirs:   src
     default-language: Haskell2010
     ghc-options: -Wall -Wcompat

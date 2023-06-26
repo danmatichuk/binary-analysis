@@ -1,2 +1,4 @@
 dist-newstyle
 cabal.project
+dist-profile
+.vscode/

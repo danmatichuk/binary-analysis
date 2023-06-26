@@ -33,3 +33,9 @@ packages: .
           submodules/macaw-loader/macaw-loader-x86
           submodules/macaw-loader/macaw-loader-ppc
           submodules/macaw-loader/macaw-loader-aarch32
+          submodules/renovate/renovate
+          submodules/renovate/renovate-aarch32
+          submodules/renovate/renovate-ppc
+          submodules/renovate/renovate-x86
+          submodules/renovate/refurbish
+          

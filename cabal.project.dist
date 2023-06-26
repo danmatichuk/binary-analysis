@@ -21,6 +21,7 @@ packages: .
           submodules/semmc/semmc-synthesis
           submodules/semmc/semmc-learning
           submodules/macaw/base
+          submodules/macaw/refinement
           submodules/macaw/x86
           submodules/macaw/x86_symbolic
           submodules/macaw/symbolic

@@ -19,9 +19,6 @@
 [submodule "submodules/dwarf"]
 	path = submodules/dwarf
 	url = git@github.com:GaloisInc/dwarf.git
-[submodule "submodules/asl-translator"]
-	path = submodules/asl-translator
-	url = git@github.com:GaloisInc/asl-translator.git
 [submodule "submodules/parameterized-utils"]
 	path = submodules/parameterized-utils
 	url = git@github.com:GaloisInc/parameterized-utils.git
@@ -31,12 +28,18 @@
 [submodule "submodules/llvm-pretty"]
 	path = submodules/llvm-pretty
 	url = git@github.com:elliottt/llvm-pretty.git
-[submodule "submodules/arm-asl-parser"]
-	path = submodules/arm-asl-parser
-	url = git@github.com:GaloisInc/arm-asl-parser.git
 [submodule "submodules/macaw-loader"]
 	path = submodules/macaw-loader
 	url = git@github.com:GaloisInc/macaw-loader.git
 [submodule "submodules/renovate"]
 	path = submodules/renovate
-	url = https://github.com/GaloisInc/renovate.git
+	url = https://github.com/GaloisInc/renovate-pate.git
+[submodule "submodules/what4-serialize"]
+	path = submodules/what4-serialize
+	url = https://github.com/GaloisInc/what4-serialize.git
+[submodule "submodules/llvm-hs"]
+	path = submodules/llvm-hs
+	url = https://github.com/llvm-hs/llvm-hs.git
+[submodule "submodules/llvm-pretty-bc-parser"]
+	path = submodules/llvm-pretty-bc-parser
+	url = https://github.com/GaloisInc/llvm-pretty-bc-parser.git

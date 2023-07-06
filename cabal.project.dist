@@ -1,4 +1,4 @@
-packages: submodules/flexdis86
+optional-packages: submodules/flexdis86
           submodules/flexdis86/binary-symbols
           submodules/elf-edit
           submodules/dwarf
